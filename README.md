@@ -1,5 +1,5 @@
 # Standar Operating Procedure (SOP) Project
-Pengaturan Penamaan GIT agar rapi dan mudah dicari, Mencatatkan SOP yang dilakukan saat project masuk (Lihat [WIKI](wiki)).
+Pengaturan Penamaan GIT agar rapi dan mudah dicari, Mencatatkan SOP yang dilakukan saat project masuk (Lihat [WIKI](https://github.com/Jagat-Teknologi-Indonesia/SOP-Project/wiki)).
 
 
 # Pengaturan Penamaan GIT
