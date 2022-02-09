@@ -1,4 +1,4 @@
-# SOP-project
+# SOP-Project
 Mencatatkan SOP yang dilakukan saat project masuk
 Lihat WIKI
 
