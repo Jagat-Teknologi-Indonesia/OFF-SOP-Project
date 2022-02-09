@@ -1,8 +1,8 @@
-# SOP-Project
-Pengturan Penamaan GIT agar rapi dan mudah dicari, Mencatatkan SOP yang dilakukan saat project masuk (Lihat WIKI).
+# Standar Operating Procedure (SOP) Project
+Pengaturan Penamaan GIT agar rapi dan mudah dicari, Mencatatkan SOP yang dilakukan saat project masuk (Lihat WIKI).
 
 
-# Pengaturan-Penamaan-GIT
+# Pengaturan Penamaan GIT
 Pengaturan Penamaan GIT agar rapi dan mudah dicari
 
 XXX-<NAMA_PROJECT/CODENAME>-<NAMABAHASA>
