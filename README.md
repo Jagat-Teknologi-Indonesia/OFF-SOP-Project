@@ -1,6 +1,5 @@
 # SOP-Project
-Mencatatkan SOP yang dilakukan saat project masuk
-Lihat WIKI
+Pengturan Penamaan GIT agar rapi dan mudah dicari, Mencatatkan SOP yang dilakukan saat project masuk (Lihat WIKI).
 
 
 # Pengaturan-Penamaan-GIT
