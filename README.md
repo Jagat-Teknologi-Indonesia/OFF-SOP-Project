@@ -5,7 +5,7 @@ Pengaturan Penamaan GIT agar rapi dan mudah dicari, Mencatatkan SOP yang dilakuk
 # Pengaturan Penamaan GIT
 Pengaturan Penamaan GIT agar rapi dan mudah dicari
 
-XXX - <NAMA_PROJECT/CODENAME> - [NAMABAHASA]
+XXX - [NAMA_PROJECT/CODENAME] - [NAMABAHASA]
 
   #Contoh :
   
