@@ -10,7 +10,8 @@ XXX - [NAMA_PROJECT/CODENAME] - [NAMABAHASA]
   #Contoh :
   
      MD-APP-UMROH-FLUTTER
-     WEB-Manage-Umroh-PHP
+     WEB-Manage-Umroh-Ci4
+     WEB-Manage-Umroh-Laravel
      SRV-Push-Umroh-NODEJS
      WEB-JTI-Company-Profile-PHP
      WEB-JTN-Company-Profile-HTML
