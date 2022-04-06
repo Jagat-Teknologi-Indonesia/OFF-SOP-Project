@@ -25,3 +25,4 @@ XXX - [NAMA_PROJECT/CODENAME] - [NAMABAHASA]
   - Untuk Di Server Only dengan awalan "SRV".
   - Untuk Desktop App dengan awalan "DESKTOP".
   - Untuk Game App dengan awalan "GAME".
+  - Untuk Keperluan Internal Document / Knowledge dengan awalan "OFF".
