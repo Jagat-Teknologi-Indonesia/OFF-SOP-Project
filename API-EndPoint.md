@@ -27,7 +27,7 @@ _Untuk reset password dari halaman Login Awal (Sebelum Login)_
 **/user/password/change**
 _Untuk ganti password dari halaman profile (Logedin)_
 
-**/user/<id>/email/change**
+**/user/[id]/email/change**
 
 ### Module Relation
 **/rel/follow/**
