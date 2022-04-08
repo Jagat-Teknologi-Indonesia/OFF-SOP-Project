@@ -2,13 +2,18 @@
 # Standarisasi API EndPoint
 
 ### Module Authentication
+
 **/auth/signup**
 _Untuk signup buatan sendiri (by email/hp)_
 **/auth/signup/3rd/**
 _Hit disini akan menampilkan pilihan 3rd Party SignUp yang tersedia_
+
 **/auth/signup/3rd/facebook**
+
 **/auth/signup/3rd/google**
+
 **/auth/signup/3rd/github**
+
 **/auth/signup/3rd/twitter**
 
 **/auth/login**
