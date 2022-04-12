@@ -9,17 +9,17 @@ XXX - [NAMA_PROJECT/CODENAME] - [NAMABAHASA]
 
   #Contoh :
   
-     MD-APP-UMROH-FLUTTER
-     WEB-Manage-Umroh-Ci4
-     WEB-Manage-Umroh-Laravel
-     SRV-Push-Umroh-NODEJS
-     WEB-JTI-Company-Profile-PHP
-     WEB-JTN-Company-Profile-HTML
-     SRV-SIAP-PRESISI-API-SPRINGBOOT
+     MD-APP_UMROH-FLUTTER
+     WEB-Manage_Umroh-Ci4
+     WEB-Manage_Umroh-Laravel
+     SRV-Push_Umroh-NODEJS
+     WEB-JTI_Company_Profile-PHP
+     WEB-JTN_Company_Profile-HTML
+     SRV-SIAP_PRESISI_API-SPRINGBOOT
      DESKTOP-Calculator-DELPHI
      GAME-Banditos_Preman-UNITY
 
-  
+  - Spasi dalam Nama Project atau Codename pakau underscore "_"
   - Untuk Mobile dengan awalan "MD".
   - Untuk Web dengan awalan "Web".
   - Untuk Di Server Only dengan awalan "SRV".
