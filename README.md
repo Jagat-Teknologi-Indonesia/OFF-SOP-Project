@@ -26,3 +26,7 @@ XXX - [NAMA_PROJECT/CODENAME] - [NAMABAHASA]
   - Untuk Desktop App dengan awalan "DESKTOP".
   - Untuk Game App dengan awalan "GAME".
   - Untuk Keperluan Internal Document / Knowledge dengan awalan "OFF".
+
+# Kebutuhan Publik Akses
+Hal seperti EULA, Privacy Policy, dan Document lain upload ke server pub.jtisrv.com
+Jadi data tersesntralisasi dan memudahkan management. Perfolder struktur mengikuti yang sudah ada.
